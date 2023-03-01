@@ -14,7 +14,7 @@
 }
 
 body {
-  font-family: "Rubik", sans-serif;
+  font-family: "Montserrat", sans-serif;
 }
 
 h1,
@@ -49,3 +49,24 @@ h5{
 h6{
   font-size: .7rem;
 }
+
+:root {
+  box-sizing: border-box;
+  font-size: 0, 785rem;
+  --white: #fdfdfd;
+  --black: #000000;
+  --green: #47d7ac;
+  --dark-green: #2c7a7b;
+  --light-green: #e5f0ed;
+  --darkgrey: #4a4a4a;
+  --lightgrey: #949494;
+  --invalid:#e74d3cdc;
+  --valid: #07bc0db2;
+  background-color: #f5f7fc;
+}
+
+
+
+
+
+

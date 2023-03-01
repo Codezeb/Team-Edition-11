@@ -1,9 +1,13 @@
-import './App.css';
+import React from 'react'
+import PasswordChange from './components/PasswordChange'
+import './components/PasswordChange.css'
+import '../src/index.css'
 
-function App() {
+
+export default function App() {
   return (
-    <></>
-  );
+    <>
+    <PasswordChange />
+    </>
+  )
 }
-
-export default App;
